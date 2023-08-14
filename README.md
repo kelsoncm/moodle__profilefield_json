@@ -1,4 +1,4 @@
-# JSON Modole Profile Field plugin
+# JSON Moodle Profile Field plugin
 
 JSON custom field to user profiles into Moodle.
 
